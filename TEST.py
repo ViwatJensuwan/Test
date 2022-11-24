@@ -8,3 +8,5 @@ print("The result is : " + str(i))
 
 y = lambda x: x+i
 print(y(1))
+
+# v.2
